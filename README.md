@@ -2,7 +2,7 @@
 Repository with simple excercices of Python from "Python Brasil Web Site"
 
 More information: 
- https://wiki.python.org.br/PythonBrasil
+ https://wiki.python.org.br/PythonBrasil\n
  https://docs.python.org/3/
 
 # Requirements
@@ -12,8 +12,8 @@ More information:
  
  # Usage
  
- $ mkdir <workdir>
- $ cd <wordir>
+ $ mkdir <workdir>\n
+ $ cd <wordir>\n
  $ git clone https://github.com/jmreis/exercicios-python.git
  
  
